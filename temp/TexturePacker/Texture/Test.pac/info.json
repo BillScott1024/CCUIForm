@@ -1,0 +1,25 @@
+{
+  "packedTextures": [
+    {
+      "path": "D:\\CocosProject\\ShunLiu\\temp\\TexturePacker\\Texture\\Test.pac/Test-1.png",
+      "name": "Test-1.png",
+      "size": "1024x1024"
+    },
+    {
+      "path": "D:\\CocosProject\\ShunLiu\\temp\\TexturePacker\\Texture\\Test.pac/Test-2.png",
+      "name": "Test-2.png",
+      "size": "1024x1024"
+    },
+    {
+      "path": "D:\\CocosProject\\ShunLiu\\temp\\TexturePacker\\Texture\\Test.pac/Test-3.png",
+      "name": "Test-3.png",
+      "size": "1024x1024"
+    },
+    {
+      "path": "D:\\CocosProject\\ShunLiu\\temp\\TexturePacker\\Texture\\Test.pac/Test-4.png",
+      "name": "Test-4.png",
+      "size": "1024x1024"
+    }
+  ],
+  "unpackedTextures": []
+}
